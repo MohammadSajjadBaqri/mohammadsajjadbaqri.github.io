@@ -1,0 +1,103 @@
+body{
+    background-color: #FBEAEB;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    color: #2F3C7E;
+}
+
+nav{
+    font-weight: 600;
+}
+
+.dropdown-item:hover{
+    background-color: #2F3C7E;
+    color: #FBEAEB;
+}
+
+.SajjadLogo{
+    width: 100%;
+}
+
+.Sajjadwelcome{
+    font-weight: 700;
+}
+
+footer{
+    color: #FBEAEB;
+    background-color: #2F3C7E;
+}
+
+.footerheading{
+    font-weight: 300;
+    text-decoration: underline;
+}
+
+.SajjadDes{
+    font-weight: 300;
+}
+
+.btn-outline-dark:hover{
+    background-color: #2F3C7E;
+    color: #FBEAEB;
+}
+
+.btn-outline-dark{
+    background-color: #FBEAEB;
+    color: #2F3C7E;
+}
+
+.SajjadH2{
+    font-weight: 800;
+}
+
+.SajjadItem{
+    font-weight: 200;
+    background-color: #FBEAEB;
+    border-color: #2F3C7E;
+    border-width: 1pt;
+    transition: 0.5s;
+}
+
+.SajjadItem:hover, .SajjadItem:active{
+    font-weight: 300;
+    background-color: #2F3C7E;
+    border-color: #FBEAEB;
+    color: #FBEAEB;
+}
+
+.SajjadItem2{
+    font-weight: 200;
+    background-color: #FBEAEB;
+    border-color: #2F3C7E;
+    border-width: 1pt;
+}
+
+.SajjadViewMore{
+    font-weight: 400;
+    background-color: #2F3C7E;
+    border-color: #FBEAEB;
+    color: #FBEAEB;
+    border-width: 1pt;
+    transition: 0.5s;
+}
+
+.SajjadViewMore:hover, .SajjadViewMore:active{
+    font-weight: 600;
+    background-color: #FBEAEB;
+    border-color: #2F3C7E;
+    color: #2F3C7E;
+}
+
+p{
+    font-size: 18pt;
+}
+
+.footerItem{
+    font-size: 16pt;
+    color: #FBEAEB;
+    text-decoration: none;
+}
+
+.footerItem:hover{
+    text-decoration: underline;
+    color: #FBEAEB;
+}
