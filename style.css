@@ -78,6 +78,7 @@ footer{
     color: #FBEAEB;
     border-width: 1pt;
     transition: 0.5s;
+    font-size: 1.75rem;
 }
 
 .SajjadViewMore:hover, .SajjadViewMore:active{
